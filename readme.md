@@ -35,7 +35,7 @@ sudo sh -c "$(wget -qO- https://github.com/v2rayA/v2rayA-installer/raw/main/unin
 توجه کنید Local ip  به معنای ای پی ریگ شما هست و پورت 2017 پورت پنل بطور مثال ای پی ریگ شما 192.168.1.2 هست ، باید به این صورت نوشته شود 192.168.1.2:2107
 
 # حمایت:
-## BNB&ETH&SHIBA
+## BNB  ETH  SHIBA
 ```sh
 0x31328b364885592ba4dC0C883Dc60ddD173bd5Fd
 ```
