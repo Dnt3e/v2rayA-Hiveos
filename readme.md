@@ -2,7 +2,7 @@
   <a href="https://www.youtube.com/@Hiv3learning" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dnt3e/v2rayA-Hiveos/blob/main/Hive.png">
-      <img width="580" height="200" src="https://github.com/Dnt3e/v2rayA-Hiveos/blob/main/Hive.png">
+      <img width="580" height="185" src="https://github.com/Dnt3e/v2rayA-Hiveos/blob/main/Hive.png">
     </picture>
   </a>
 </p>
