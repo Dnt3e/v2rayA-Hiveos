@@ -23,7 +23,6 @@ Install xray core:
 sudo sh -c "$(wget -qO- https://github.com/v2rayA/v2rayA-installer/raw/main/installer.sh)" @ --with-xray
 ```
 
-Use `curl -Ls` to replace `wget -qO-` if you want to use curl instead of wget.
 ### حذف پنل V2rayA
 Remove v2rayA
 
