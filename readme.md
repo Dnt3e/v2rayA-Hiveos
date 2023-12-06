@@ -1,4 +1,13 @@
-نصب و راه اندازی پنل V2rayA  بر روی سیستم عامل هایو 
+<p align="center">
+  <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-dark.png">
+      <img width="160" height="160" src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-light.png">
+    </picture>
+  </a>
+</p>
+
+# نصب و راه اندازی پنل V2rayA  بر روی سیستم عامل هایو
 # v2rayA installer For Hiveos
 توجه: قبل از نصب حتما سیستم عامل رو با دستور زیر بروز رسانی کنید
 ```sh
