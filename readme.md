@@ -38,6 +38,12 @@ Remove v2rayA
 ```sh
 sudo sh -c "$(wget -qO- https://github.com/v2rayA/v2rayA-installer/raw/main/uninstaller.sh)"
 ```
+## مهم
+پس از نصب کامل با استفاده از دستورات زیر سرویس v2raya را فعال کنید
+استارت سرویس:
+systemctl start v2raya
+فعال سازی سرویس:
+systemctl enable v2raya
 ### ورود به پنل:
 
 پس از نصب از طریق Hostname(Local ip):2017 وارد پنل مدیریت شوید
